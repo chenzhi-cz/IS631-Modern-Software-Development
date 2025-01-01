@@ -1,3 +1,30 @@
+### **Week 6 Software Testing**
+
+---
+
+#### **Preparation Work**
+
+1. **Download the Lab Repository**:
+You can use [DownGit](https://downgit.github.io/#/) to download only the specific folder you need from the repository.
+
+- 1. **Open DownGit**  
+   Visit [https://downgit.github.io/#/](https://downgit.github.io/#/).
+
+- 2. **Paste the Folder URL**  
+   Use the following URL for the `week6-python-lab` folder:
+   ```
+   https://github.com/chenzhi-cz/IS631-Modern-Software-Development/tree/main/week6-python-lab
+   ```
+
+- 3. **Download the Folder**  
+   - Paste the URL into the DownGit interface.
+   - Click the "Download" button.
+   - A `.zip` file containing only the `week6-python-lab` folder will be downloaded.
+
+- 4. **Extract the Folder**  
+   Extract the `.zip` file to access the `week6-python-lab` content.
+
+
 Below is **Activity 1** for a *Software Testing Lab* that guides students through writing and running tests for a FastAPI application. It covers fundamental testing concepts, introduces mocking, and provides step-by-step instructions on how to run the tests.
 
 ---

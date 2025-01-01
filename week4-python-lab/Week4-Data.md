@@ -17,12 +17,25 @@ Read SQLAlchemy and Alembic Basics:
    - Install the following extensions in VS Code (Ctrl+Shift+X):
      - SQLite Viewer by Florian Klampfer.
 
-2. **Clone the Lab Repository**:
-   Clone the project repository and navigate to its directory:
-   ```bash
-   git clone <repository-url>
-   cd week4-python-lab
+2. **Download the Lab Repository**:
+You can use [DownGit](https://downgit.github.io/#/) to download only the specific folder you need from the repository.
+
+- 1. **Open DownGit**  
+   Visit [https://downgit.github.io/#/](https://downgit.github.io/#/).
+
+- 2. **Paste the Folder URL**  
+   Use the following URL for the `week4-python-lab` folder:
    ```
+   https://github.com/chenzhi-cz/IS631-Modern-Software-Development/tree/main/week4-python-lab
+   ```
+
+- 3. **Download the Folder**  
+   - Paste the URL into the DownGit interface.
+   - Click the "Download" button.
+   - A `.zip` file containing only the `week4-python-lab` folder will be downloaded.
+
+- 4. **Extract the Folder**  
+   Extract the `.zip` file to access the `week4-python-lab` content.
 
 3. **Set Up a Virtual Environment**:
    Create and activate a virtual environment:

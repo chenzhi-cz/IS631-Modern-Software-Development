@@ -13,6 +13,26 @@
 
 Make sure Docker is properly installed and running on your system before class.
 
+4. **Download the Lab Repository**:
+You can use [DownGit](https://downgit.github.io/#/) to download only the specific folder you need from the repository.
+
+- 1. **Open DownGit**  
+   Visit [https://downgit.github.io/#/](https://downgit.github.io/#/).
+
+- 2. **Paste the Folder URL**  
+   Use the following URL for the `week8-python-lab` folder:
+   ```
+   https://github.com/chenzhi-cz/IS631-Modern-Software-Development/tree/main/week8-python-lab
+   ```
+
+- 3. **Download the Folder**  
+   - Paste the URL into the DownGit interface.
+   - Click the "Download" button.
+   - A `.zip` file containing only the `week8-python-lab` folder will be downloaded.
+
+- 4. **Extract the Folder**  
+   Extract the `.zip` file to access the `week8-python-lab` content.
+
 ---
 
 ## **2. Activity 1 (Individual): Build a Docker Image of Your FastAPI App**

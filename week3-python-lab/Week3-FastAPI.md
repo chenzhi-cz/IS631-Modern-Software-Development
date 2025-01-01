@@ -13,12 +13,25 @@ This lab guides you through developing a RESTful API using Python's **FastAPI** 
      - Pylance by Microsoft
      - REST Client by Huachao Mao.
 
-2. **Clone the Lab Repository**:
-   Clone the project repository and navigate to its directory:
-   ```bash
-   git clone <repository-url>
-   cd week3-python-lab
+2. **Download the Lab Repository**:
+You can use [DownGit](https://downgit.github.io/#/) to download only the specific folder you need from the repository.
+
+- 1. **Open DownGit**  
+   Visit [https://downgit.github.io/#/](https://downgit.github.io/#/).
+
+- 2. **Paste the Folder URL**  
+   Use the following URL for the `week3-python-lab` folder:
    ```
+   https://github.com/chenzhi-cz/IS631-Modern-Software-Development/tree/main/week3-python-lab
+   ```
+
+- 3. **Download the Folder**  
+   - Paste the URL into the DownGit interface.
+   - Click the "Download" button.
+   - A `.zip` file containing only the `week3-python-lab` folder will be downloaded.
+
+- 4. **Extract the Folder**  
+   Extract the `.zip` file to access the `week3-python-lab` content.
 
 3. **Set Up a Virtual Environment**:
    Create and activate a virtual environment:
@@ -42,10 +55,6 @@ This lab guides you through developing a RESTful API using Python's **FastAPI** 
 6. **Access the API**:
    - API Endpoints: `http://localhost:8000`
    - Swagger Documentation: `http://localhost:8000/docs`
-
----
-
-Here's an improved version of your guidance with an introduction and explanation of the `Depends` concept:
 
 ---
 
