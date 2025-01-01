@@ -1,0 +1,9 @@
+[run]
+# Omit the tests/ directory (adjust the path if yours is different)
+omit =
+    tests/*
+
+[report]
+# Example: exclude lines that contain if __name__ == '__main__':
+exclude_lines =
+    if __name__ == "__main__"
